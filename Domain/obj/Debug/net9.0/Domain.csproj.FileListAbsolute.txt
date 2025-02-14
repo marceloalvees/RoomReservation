@@ -1,0 +1,11 @@
+C:\Users\TGT\Projetos\RoomReservation\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\TGT\Projetos\RoomReservation\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\TGT\Projetos\RoomReservation\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\TGT\Projetos\RoomReservation\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGT\Projetos\RoomReservation\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TGT\Projetos\RoomReservation\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\TGT\Projetos\RoomReservation\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TGT\Projetos\RoomReservation\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\TGT\Projetos\RoomReservation\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\TGT\Projetos\RoomReservation\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\TGT\Projetos\RoomReservation\Domain\obj\Debug\net9.0\ref\Domain.dll
