@@ -51,7 +51,7 @@ namespace Tests.Application.UserCases.Reservation
             };
             _unitOfWork.Setup(x => x.ReservationRepository.GetReservationByIdAsync(It.IsAny<int>(), It.IsAny<CancellationToken>()))
                 .ReturnsAsync(new Domain.Entities.Reservation());
-            //_unitOfWork.Setup(x=> x.ReservationRepository.U)
+
             _unitOfWork.Setup(x => x.CommitAsync())
                 .ThrowsAsync(new Exception("Error"));
 

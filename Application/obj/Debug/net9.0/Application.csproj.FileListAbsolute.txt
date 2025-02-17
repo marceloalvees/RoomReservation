@@ -13,3 +13,4 @@ C:\Users\TGT\Projetos\RoomReservation\Application\bin\Debug\net9.0\Domain.dll
 C:\Users\TGT\Projetos\RoomReservation\Application\bin\Debug\net9.0\Domain.pdb
 C:\Users\TGT\Projetos\RoomReservation\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
 C:\Users\TGT\Projetos\RoomReservation\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Users\TGT\Projetos\RoomReservation\Application\obj\Debug\net9.0\Application.sourcelink.json

@@ -49,3 +49,4 @@ C:\Users\TGT\Projetos\RoomReservation\WebApi\bin\Debug\net9.0\Application.pdb
 C:\Users\TGT\Projetos\RoomReservation\WebApi\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
 C:\Users\TGT\Projetos\RoomReservation\WebApi\bin\Debug\net9.0\MailKit.dll
 C:\Users\TGT\Projetos\RoomReservation\WebApi\bin\Debug\net9.0\MimeKit.dll
+C:\Users\TGT\Projetos\RoomReservation\WebApi\obj\Debug\net9.0\WebApi.sourcelink.json
